@@ -1,2 +1,2 @@
-# TemplateRepository
-This repository contains template for a project in C amd C++ language
+# Fork of nativefiledialog-extended
+Build System port to makefile
