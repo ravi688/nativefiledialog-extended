@@ -17,7 +17,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "nfd.h"
+#include <nfd/nfd.h>
 
 namespace {
 
